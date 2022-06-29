@@ -1,2 +1,4 @@
 hi,this is github
  this is local file ....
+and 
+this is on gllobal directory called github
